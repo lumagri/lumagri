@@ -1,4 +1,7 @@
+
 # ✨ Welcome to my profile!
+
+![image](LucianeMagri_DataScientist.png)
 
 I'm a health science researcher who found in technology a better way to solve problems.
 
