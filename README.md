@@ -1,5 +1,4 @@
-![Luciane Magri, Data Scientist](LuMagri_DataScientist.png)
-
+![Luciane Magri, Data Scientist](LuMagri_DataScientist.png#vitrinedev)
 # ✨ Welcome to my profile!
 I'm a health science researcher who found in technology a better way to solve problems.
 
