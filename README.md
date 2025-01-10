@@ -11,4 +11,4 @@ I'm a health science researcher who found in technology a better way to solve pr
 I want to use my knowledge **+** my learning capacity to grow in a company that believes in better health with data science and new technologies. 
 
 ## 📫 You can find me at [LinkedIn](https://www.linkedin.com/in/lumagri/).
-## 💼 You can see my [Portfolio](https://www.lumagri.github.io). 
+## 💼 You can see my [Portfolio](https://lumagri.github.io). 
